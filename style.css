@@ -1,6 +1,5 @@
-body {
-  font-family: system-ui;
-  background: #f06d06;
+.hello {
+  font-family: arial;
   color: white;
   text-align: center;
 }
