@@ -1,7 +1,7 @@
 body {
     padding: 0;
     margin: 0;
-    background: #ffffff;
+    background: #f2f6e9;
 }
 .navbar {
     background:#2867B2;
@@ -19,4 +19,16 @@ body {
 }
 .navbar-collapse {
     justify-content: flex-end;
+}
+
+.header {
+    text-align: center;
+    color: black;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
