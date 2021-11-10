@@ -21,7 +21,7 @@ body {
     justify-content: flex-end;
 }
 
-.header {
+.hi {
     text-align: center;
     color: black;
 }
@@ -32,4 +32,11 @@ body {
   margin-right: auto;
   width: 300px;
   height: 300px;
+}
+
+.header {
+    background-image: url('/PersonalWebsiteImages/PeggysCove.JPG');
+    background-size: cover;
+    background-position: center;
+    position: relative;
 }
