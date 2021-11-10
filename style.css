@@ -41,8 +41,6 @@ body {
     position: relative;
 }
 
-After that, add the following markup to main.css.
-
 .description {
 	left: 50%;
 	position: absolute;
@@ -50,9 +48,11 @@ After that, add the following markup to main.css.
 	transform: translate(-50%, -55%);
 	text-align: center;
 }
+
 .description h1 {
 	color: #fff;
 }
+
 .description p {
 	color: #2867B2;
 	font-size: 1.3rem;
