@@ -83,3 +83,27 @@ body {
     text-align: center;
     font-size: 3rem;
 }
+
+.ycdsb {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 500px;
+}
+
+.liberal {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 612px;
+  height: 214px;
+}
+
+.newmarket {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 500px;
+}
