@@ -75,10 +75,11 @@ body {
 
 .blue{
     background: #2867B2;
-	
+	padding: 1em;
 }
 
 .featured {
     color: #fff;
     text-align: center;
+    font-size: 1.5rem;
 }
