@@ -73,6 +73,7 @@ body {
     color:#000;
 }
 
-.featured {
-    color: #2867B2;
+.featured h1 {
+    color: #fff;
+    text-align: center;
 }
