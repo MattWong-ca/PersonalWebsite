@@ -73,7 +73,12 @@ body {
     color:#000;
 }
 
-.featured h1 {
+.blue{
+    background: #2867B2;
+	
+}
+
+.featured {
     color: #fff;
     text-align: center;
 }
