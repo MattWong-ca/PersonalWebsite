@@ -111,9 +111,11 @@ body {
   height: 500px;
 }
 
+/*==========ORGANIZATIONS I'VE WORKED FOR==========*/
+
 .background {
 	background: #fff;
-	padding: 4em 0;
+	padding: 0 0; /*4em to 0 (first one) */
 }
 .team {
 	color: black;
