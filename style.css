@@ -81,9 +81,9 @@ body {
 .featured {
     color: #fff;
     text-align: center;
-    font-size: 5rem;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    font-size: 3rem;
+    padding-top: 30px;
+    padding-bottom: 30px;
     background:#2867B2;
 }
 
