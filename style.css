@@ -122,11 +122,10 @@ body {
 	column-count: 4;
 }
 .team .card {
-	background:none;
+	background:black;
 	border: none;
 }
 .team .card-title {
 	font-size: 1.3rem;
 	margin-bottom: 0;
-	text-transform: uppercase;
 }
