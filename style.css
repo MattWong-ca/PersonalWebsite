@@ -122,7 +122,7 @@ body {
 	column-count: 4;
 }
 .team .card {
-	background:black;
+	background: none;
 	border: none;
 }
 .team .card-title {
