@@ -119,6 +119,7 @@ body {
 }
 .centerImage {
 	text-align: center;
+	width: 130%;
 }
 .team {
 	color: black;
