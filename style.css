@@ -118,6 +118,7 @@ body {
 .team {
 	color: black;
 	padding: 0 180px;
+	width: 70%;
 }
 .team .card-columns {
 	-webkit-column-count: 4;
