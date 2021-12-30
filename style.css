@@ -115,7 +115,7 @@ body {
 
 .background {
 	background: #fff;
-	padding: 0 0; /*4em to 0 (first one) */
+	padding: 4em 0; /*4em to 0 (first one) */
 }
 .team {
 	color: black;
