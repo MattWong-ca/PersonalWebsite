@@ -120,27 +120,27 @@ body {
 .team {
 	color: black;
 	padding: 0 180px;
-	width: 100%;
+	width: 130%;
 }
 .team .card-columns {
 	-webkit-column-count: 4;
 	-moz-column-count: 4;
 	column-count: 4;
-	width: 100%;
+	width: 130%;
 }
 .team .card {
 	background: none;
 	border: none;
-	width: 100%;
+	width: 130%;
 }
 .team .card-title {
 	font-size: 1.3rem;
 	margin-bottom: 0;
-	width: 100%;
+	width: 130%;
 	text-align: center;
 }
 .team .card-text {
-	width: 100%;
+	width: 130%;
 }
 
 
