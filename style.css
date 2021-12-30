@@ -117,6 +117,9 @@ body {
 	background: #fff;
 	padding: 4em 0; /*4em to 0 (first one) */
 }
+.centerImage {
+	text-align: center;
+}
 .team {
 	color: black;
 	padding: 0 180px;
